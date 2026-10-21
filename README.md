@@ -39,7 +39,8 @@ Learning-C++/
 ├── 05-eszamanlilik/
 ├── 06-ag-ve-sistem/
 ├── 07-algoritma-sorulari/
-└── 08-mini-projeler/
+├── 08-mini-projeler/
+└── notlar/                (her oturumun soru ve cevap notları, PDF)
 ```
 
 ## Konu listesi ve durum
@@ -49,12 +50,12 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 ### 01 - Dil temelleri
 - [ ] Veri tipleri, `sizeof`, sabit genişlikli tipler (`int32_t`, `uint8_t`)
 - [ ] Signed/unsigned, taşma (overflow), tip dönüşümleri
-- [x] `const` çeşitleri (`const int*` / `int* const`): [`01-temeller/const_pointer.cpp`](01-temeller/const_pointer.cpp)
+- [x] `const` çeşitleri (`const int*` / `int* const`): [`01-temeller/02_const_pointer.cpp`](01-temeller/02_const_pointer.cpp)
 - [ ] Scope, ömür ve `static` kullanımları
 - [ ] Operatörler (`++i` / `i++`, mantıksal, bit düzeyi)
 - [ ] Bit işlemleri (set / clear / toggle / maske)
 - [ ] `enum class`, `struct` ve `class` farkı, `constexpr`, `auto`
-- [ ] Fonksiyonlar: değer/referans/pointer ile geçirme, overloading, varsayılan argüman
+- [ ] Fonksiyonlar: değer/referans/pointer ile geçirme, overloading, varsayılan argüman (kısmen: [`03_const_ref.cpp`](01-temeller/03_const_ref.cpp))
 - [ ] Dizi ve pointer ilişkisi, pointer aritmetiği
 - [ ] C tarzı string ve `std::string`
 - [ ] Header / source ayrımı, include guard, `namespace`
@@ -100,7 +101,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [ ] Basit TCP istemci / sunucu
 
 ### 07 - Algoritma soruları
-- [x] swap (pointer ve referans): [`01-temeller/swap.cpp`](01-temeller/swap.cpp)
+- [x] swap (pointer ve referans): [`01-temeller/01_swap.cpp`](01-temeller/01_swap.cpp)
 - [ ] String ters çevirme, palindrom
 - [ ] En büyük / en küçük eleman
 - [ ] Fibonacci, faktöriyel, asal kontrolü
