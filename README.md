@@ -32,7 +32,7 @@ Windows'ta PowerShell'de çalıştırma: `.\ornek.exe`
 ```
 Learning-C++/
 ├── README.md
-├── 01-dil-temelleri/
+├── 01-temeller/
 ├── 02-bellek-raii/
 ├── 03-siniflar-oop/
 ├── 04-stl-modern-cpp/
@@ -100,7 +100,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [ ] Basit TCP istemci / sunucu
 
 ### 07 - Algoritma soruları
-- [ ] swap (pointer ve referans)
+- [x] swap (pointer ve referans): [`01-temeller/swap.cpp`](01-temeller/swap.cpp)
 - [ ] String ters çevirme, palindrom
 - [ ] En büyük / en küçük eleman
 - [ ] Fibonacci, faktöriyel, asal kontrolü
