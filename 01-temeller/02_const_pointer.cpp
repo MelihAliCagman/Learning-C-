@@ -1,7 +1,7 @@
 // Konu: const ve pointer: const int* ile int* const farkı
 // Ne gösteriyor: Pointer'da iki ayrı şey sabit olabilir: gösterilen değer veya pointer'ın kendisi.
 // Neden önemli: Mülakatta çok sorulur; ayrıca const& parametreleri gereksiz kopyayı önler.
-// Derleme: g++ -std=c++17 -Wall -Wextra -o const_pointer const_pointer.cpp
+// Derleme: g++ -std=c++17 -Wall -Wextra -o 02_const_pointer 02_const_pointer.cpp
 
 #include <iostream>
 

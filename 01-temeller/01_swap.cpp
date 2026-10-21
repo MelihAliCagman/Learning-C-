@@ -1,7 +1,7 @@
 // Konu: Değer değiştirme (swap): referans ve pointer ile
 // Ne gösteriyor: Aynı işi yapan iki fonksiyon; biri referans, diğeri pointer alıyor.
 // Neden önemli: "Değerle geçirme" kopya üretir; orijinali değiştirmek için referans veya pointer gerekir.
-// Derleme: g++ -std=c++17 -Wall -Wextra -o swap swap.cpp
+// Derleme: g++ -std=c++17 -Wall -Wextra -o 01_swap 01_swap.cpp
 
 #include <iostream>
 
