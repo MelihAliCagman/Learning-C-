@@ -49,7 +49,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 ### 01 - Dil temelleri
 - [ ] Veri tipleri, `sizeof`, sabit genişlikli tipler (`int32_t`, `uint8_t`)
 - [ ] Signed/unsigned, taşma (overflow), tip dönüşümleri
-- [ ] `const` çeşitleri (`const int*` / `int* const`)
+- [x] `const` çeşitleri (`const int*` / `int* const`): [`01-temeller/const_pointer.cpp`](01-temeller/const_pointer.cpp)
 - [ ] Scope, ömür ve `static` kullanımları
 - [ ] Operatörler (`++i` / `i++`, mantıksal, bit düzeyi)
 - [ ] Bit işlemleri (set / clear / toggle / maske)
