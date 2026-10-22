@@ -61,8 +61,8 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [ ] Tanımsız davranış örnekleri
 
 ### 02 - Bellek ve RAII
-- [ ] Pointer ve referans farkı
-- [ ] Stack ve heap
+- [x] Pointer ve referans farkı: [`01-temeller/01_swap.cpp`](01-temeller/01_swap.cpp)
+- [x] Stack ve heap: [`01-temeller/08_stack_heap.cpp`](01-temeller/08_stack_heap.cpp)
 - [ ] `new` / `delete`, `new[]` / `delete[]`, bellek sızıntısı
 - [ ] Dangling pointer, double free, use-after-free
 - [ ] RAII fikri
