@@ -48,7 +48,7 @@ Learning-C++/
 Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık gelir.
 
 ### 01 - Dil temelleri
-- [ ] Veri tipleri, `sizeof`, sabit genişlikli tipler (`int32_t`, `uint8_t`)
+- [x] Veri tipleri, `sizeof`, sabit genişlikli tipler (`int32_t`, `uint8_t`): [`01-temeller/04_veri_tipleri.cpp`](01-temeller/04_veri_tipleri.cpp)
 - [ ] Signed/unsigned, taşma (overflow), tip dönüşümleri
 - [x] `const` çeşitleri (`const int*` / `int* const`): [`01-temeller/02_const_pointer.cpp`](01-temeller/02_const_pointer.cpp)
 - [ ] Scope, ömür ve `static` kullanımları
