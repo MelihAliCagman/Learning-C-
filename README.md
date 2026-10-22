@@ -63,10 +63,10 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 ### 02 - Bellek ve RAII
 - [x] Pointer ve referans farkı: [`01-temeller/01_swap.cpp`](01-temeller/01_swap.cpp)
 - [x] Stack ve heap: [`01-temeller/08_stack_heap.cpp`](01-temeller/08_stack_heap.cpp)
-- [ ] `new` / `delete`, `new[]` / `delete[]`, bellek sızıntısı
-- [ ] Dangling pointer, double free, use-after-free
-- [ ] RAII fikri
-- [ ] `unique_ptr`
+- [x] `new` / `delete`, bellek sızıntısı (`new[]` / `delete[]` henüz yok): [`01-temeller/09_sizinti_asili_pointer.cpp`](01-temeller/09_sizinti_asili_pointer.cpp)
+- [x] Dangling pointer, double free (use-after-free kavramsal): [`01-temeller/09_sizinti_asili_pointer.cpp`](01-temeller/09_sizinti_asili_pointer.cpp)
+- [x] RAII fikri: [`01-temeller/09_sizinti_asili_pointer.cpp`](01-temeller/09_sizinti_asili_pointer.cpp)
+- [x] `unique_ptr` (temel kullanım): [`01-temeller/09_sizinti_asili_pointer.cpp`](01-temeller/09_sizinti_asili_pointer.cpp)
 - [ ] `shared_ptr` ve `weak_ptr`
 
 ### 03 - Sınıflar ve OOP
