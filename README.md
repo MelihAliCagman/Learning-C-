@@ -50,8 +50,8 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [x] Veri tipleri, `sizeof`, sabit genişlikli tipler (`int32_t`, `uint8_t`): [`01-temeller/04_veri_tipleri.cpp`](01-temeller/04_veri_tipleri.cpp)
 - [x] Signed/unsigned, taşma (overflow), tip dönüşümleri: [`01-temeller/05_signed_unsigned.cpp`](01-temeller/05_signed_unsigned.cpp)
 - [x] `const` çeşitleri (`const int*` / `int* const`): [`01-temeller/02_const_pointer.cpp`](01-temeller/02_const_pointer.cpp)
-- [ ] Scope, ömür ve `static` kullanımları
-- [ ] Operatörler (`++i` / `i++`, mantıksal, bit düzeyi)
+- [x] Scope, ömür ve `static` kullanımları: [`01-temeller/06_scope_static.cpp`](01-temeller/06_scope_static.cpp)
+- [x] Operatörler (`++i` / `i++`, mantıksal, bit düzeyi): [`01-temeller/07_operatorler.cpp`](01-temeller/07_operatorler.cpp)
 - [ ] Bit işlemleri (set / clear / toggle / maske)
 - [ ] `enum class`, `struct` ve `class` farkı, `constexpr`, `auto`
 - [ ] Fonksiyonlar: değer/referans/pointer ile geçirme, overloading, varsayılan argüman (kısmen: [`03_const_ref.cpp`](01-temeller/03_const_ref.cpp))
