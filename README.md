@@ -39,8 +39,7 @@ Learning-C++/
 ├── 05-eszamanlilik/
 ├── 06-ag-ve-sistem/
 ├── 07-algoritma-sorulari/
-├── 08-mini-projeler/
-└── notlar/                (her oturumun soru ve cevap notları, PDF)
+└── 08-mini-projeler/
 ```
 
 ## Konu listesi ve durum
@@ -49,7 +48,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 
 ### 01 - Dil temelleri
 - [x] Veri tipleri, `sizeof`, sabit genişlikli tipler (`int32_t`, `uint8_t`): [`01-temeller/04_veri_tipleri.cpp`](01-temeller/04_veri_tipleri.cpp)
-- [ ] Signed/unsigned, taşma (overflow), tip dönüşümleri
+- [x] Signed/unsigned, taşma (overflow), tip dönüşümleri: [`01-temeller/05_signed_unsigned.cpp`](01-temeller/05_signed_unsigned.cpp)
 - [x] `const` çeşitleri (`const int*` / `int* const`): [`01-temeller/02_const_pointer.cpp`](01-temeller/02_const_pointer.cpp)
 - [ ] Scope, ömür ve `static` kullanımları
 - [ ] Operatörler (`++i` / `i++`, mantıksal, bit düzeyi)
