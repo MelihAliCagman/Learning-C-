@@ -54,7 +54,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [x] Operatörler (`++i` / `i++`, mantıksal, bit düzeyi): [`01-temeller/07_operatorler.cpp`](01-temeller/07_operatorler.cpp)
 - [x] Bit işlemleri (set / clear / toggle / maske): [`01-temeller/10_bit_islemleri.cpp`](01-temeller/10_bit_islemleri.cpp)
 - [x] `enum class`, `struct` ve `class` farkı, `constexpr`, `auto`: [`01-temeller/11_enum_struct_constexpr_auto.cpp`](01-temeller/11_enum_struct_constexpr_auto.cpp)
-- [ ] Fonksiyonlar: değer/referans/pointer ile geçirme, overloading, varsayılan argüman (kısmen: [`03_const_ref.cpp`](01-temeller/03_const_ref.cpp))
+- [x] Fonksiyonlar: değer/referans/pointer ile geçirme, overloading, varsayılan argüman: [`01-temeller/12_fonksiyonlar.cpp`](01-temeller/12_fonksiyonlar.cpp)
 - [ ] Dizi ve pointer ilişkisi, pointer aritmetiği
 - [ ] C tarzı string ve `std::string`
 - [ ] Header / source ayrımı, include guard, `namespace`
