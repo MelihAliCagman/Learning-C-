@@ -52,7 +52,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [x] `const` çeşitleri (`const int*` / `int* const`): [`01-temeller/02_const_pointer.cpp`](01-temeller/02_const_pointer.cpp)
 - [x] Scope, ömür ve `static` kullanımları: [`01-temeller/06_scope_static.cpp`](01-temeller/06_scope_static.cpp)
 - [x] Operatörler (`++i` / `i++`, mantıksal, bit düzeyi): [`01-temeller/07_operatorler.cpp`](01-temeller/07_operatorler.cpp)
-- [ ] Bit işlemleri (set / clear / toggle / maske)
+- [x] Bit işlemleri (set / clear / toggle / maske): [`01-temeller/10_bit_islemleri.cpp`](01-temeller/10_bit_islemleri.cpp)
 - [ ] `enum class`, `struct` ve `class` farkı, `constexpr`, `auto`
 - [ ] Fonksiyonlar: değer/referans/pointer ile geçirme, overloading, varsayılan argüman (kısmen: [`03_const_ref.cpp`](01-temeller/03_const_ref.cpp))
 - [ ] Dizi ve pointer ilişkisi, pointer aritmetiği
