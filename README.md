@@ -58,7 +58,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [x] Dizi ve pointer ilişkisi, pointer aritmetiği: [`01-temeller/13_dizi_pointer.cpp`](01-temeller/13_dizi_pointer.cpp)
 - [x] C tarzı string ve `std::string`: [`01-temeller/14_string.cpp`](01-temeller/14_string.cpp)
 - [x] Header / source ayrımı, include guard, `namespace`: [`01-temeller/15_baslik_kaynak/`](01-temeller/15_baslik_kaynak/)
-- [ ] Tanımsız davranış örnekleri
+- [x] Tanımsız davranış örnekleri: [`01-temeller/16_tanimsiz_davranis.cpp`](01-temeller/16_tanimsiz_davranis.cpp)
 
 ### 02 - Bellek ve RAII
 - [x] Pointer ve referans farkı: [`01-temeller/01_swap.cpp`](01-temeller/01_swap.cpp)
