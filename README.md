@@ -102,10 +102,12 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 ### 07 - Algoritma soruları
 - [x] swap (pointer ve referans): [`01-temeller/01_swap.cpp`](01-temeller/01_swap.cpp)
 - [x] String ters çevirme, palindrom: [`01-temeller/14_string.cpp`](01-temeller/14_string.cpp)
-- [x] En büyük / en küçük eleman: [`07-algoritma-sorulari/21_sayisal_problemler.cpp`](07-algoritma-sorulari/21_sayisal_problemler.cpp)
-- [x] Fibonacci, faktöriyel, asal kontrolü: [`07-algoritma-sorulari/21_sayisal_problemler.cpp`](07-algoritma-sorulari/21_sayisal_problemler.cpp)
-- [ ] Kelime sıklığı (`unordered_map`)
-- [ ] İkili arama, basit sıralama
+- [x] Sayı soruları (`01`-`15`): çift/tek, 1'den n'e toplam, faktöriyel, Fibonacci, asal mı, asal listesi, üs alma, EBOB/EKOK, basamak işlemleri, sayıyı ters çevirme, palindrom sayı, Armstrong, mükemmel sayı, onluktan ikiliye, FizzBuzz: [`07-algoritma-sorulari/`](07-algoritma-sorulari/)
+- [x] Dizi soruları (`16`-`20`): en büyük/en küçük/ortalama, diziyi ters çevirme, ikinci en büyük, doğrusal arama, ikili arama
+- [x] Sıralama (`21`-`23`): bubble, selection, insertion sort
+- [x] Dizi kalıpları (`24`-`28`): tekrar eden eleman, en sık eleman, diziyi döndürme, sıfırları sona taşıma, iki toplam
+- [x] String soruları (`29`-`37`): ters çevirme, palindrom, sesli harf, harf frekansı, kelime sıklığı (`unordered_map`), anagram, büyük harfe çevirme, kelime sayısı, ilk tekrar etmeyen karakter
+- [x] Desen ve matris (`38`-`40`): yıldız desenleri, çarpım tablosu, matris işlemleri
 - [ ] Bağlı liste ters çevirme
 
 ### 08 - Mini projeler
