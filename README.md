@@ -70,7 +70,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [x] `shared_ptr` ve `weak_ptr`: [`02-bellek-raii/18_shared_weak_ptr.cpp`](02-bellek-raii/18_shared_weak_ptr.cpp)
 
 ### 03 - Sınıflar ve OOP
-- [ ] Constructor çeşitleri, initializer list, destructor
+- [x] Constructor çeşitleri, initializer list, destructor: [`03-siniflar-oop/19_constructor_destructor.cpp`](03-siniflar-oop/19_constructor_destructor.cpp)
 - [ ] Kopyalama ve taşıma (Rule of 3/5/0)
 - [ ] `virtual`, `override`, soyut sınıf, sanal destructor
 - [ ] Kalıtım ve kompozisyon
