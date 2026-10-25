@@ -101,9 +101,9 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 
 ### 07 - Algoritma soruları
 - [x] swap (pointer ve referans): [`01-temeller/01_swap.cpp`](01-temeller/01_swap.cpp)
-- [ ] String ters çevirme, palindrom
-- [ ] En büyük / en küçük eleman
-- [ ] Fibonacci, faktöriyel, asal kontrolü
+- [x] String ters çevirme, palindrom: [`01-temeller/14_string.cpp`](01-temeller/14_string.cpp)
+- [x] En büyük / en küçük eleman: [`07-algoritma-sorulari/21_sayisal_problemler.cpp`](07-algoritma-sorulari/21_sayisal_problemler.cpp)
+- [x] Fibonacci, faktöriyel, asal kontrolü: [`07-algoritma-sorulari/21_sayisal_problemler.cpp`](07-algoritma-sorulari/21_sayisal_problemler.cpp)
 - [ ] Kelime sıklığı (`unordered_map`)
 - [ ] İkili arama, basit sıralama
 - [ ] Bağlı liste ters çevirme
