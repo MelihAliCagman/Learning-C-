@@ -62,12 +62,12 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 
 ### 02 - Bellek ve RAII
 - [x] Pointer ve referans farkı: [`01-temeller/01_swap.cpp`](01-temeller/01_swap.cpp)
-- [x] Stack ve heap: [`01-temeller/08_stack_heap.cpp`](01-temeller/08_stack_heap.cpp)
-- [x] `new` / `delete`, `new[]` / `delete[]`, bellek sızıntısı: [`09_sizinti_asili_pointer.cpp`](01-temeller/09_sizinti_asili_pointer.cpp), [`17_new_dizi.cpp`](01-temeller/17_new_dizi.cpp)
-- [x] Dangling pointer, double free (use-after-free kavramsal): [`01-temeller/09_sizinti_asili_pointer.cpp`](01-temeller/09_sizinti_asili_pointer.cpp)
-- [x] RAII fikri: [`01-temeller/09_sizinti_asili_pointer.cpp`](01-temeller/09_sizinti_asili_pointer.cpp)
-- [x] `unique_ptr` (temel kullanım): [`01-temeller/09_sizinti_asili_pointer.cpp`](01-temeller/09_sizinti_asili_pointer.cpp)
-- [x] `shared_ptr` ve `weak_ptr`: [`01-temeller/18_shared_weak_ptr.cpp`](01-temeller/18_shared_weak_ptr.cpp)
+- [x] Stack ve heap: [`02-bellek-raii/08_stack_heap.cpp`](02-bellek-raii/08_stack_heap.cpp)
+- [x] `new` / `delete`, `new[]` / `delete[]`, bellek sızıntısı: [`09_sizinti_asili_pointer.cpp`](02-bellek-raii/09_sizinti_asili_pointer.cpp), [`17_new_dizi.cpp`](02-bellek-raii/17_new_dizi.cpp)
+- [x] Dangling pointer, double free (use-after-free kavramsal): [`02-bellek-raii/09_sizinti_asili_pointer.cpp`](02-bellek-raii/09_sizinti_asili_pointer.cpp)
+- [x] RAII fikri: [`02-bellek-raii/09_sizinti_asili_pointer.cpp`](02-bellek-raii/09_sizinti_asili_pointer.cpp)
+- [x] `unique_ptr` (temel kullanım): [`02-bellek-raii/09_sizinti_asili_pointer.cpp`](02-bellek-raii/09_sizinti_asili_pointer.cpp)
+- [x] `shared_ptr` ve `weak_ptr`: [`02-bellek-raii/18_shared_weak_ptr.cpp`](02-bellek-raii/18_shared_weak_ptr.cpp)
 
 ### 03 - Sınıflar ve OOP
 - [ ] Constructor çeşitleri, initializer list, destructor
