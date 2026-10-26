@@ -108,7 +108,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [x] Dizi kalıpları (`24`-`28`): tekrar eden eleman, en sık eleman, diziyi döndürme, sıfırları sona taşıma, iki toplam
 - [x] String soruları (`29`-`37`): ters çevirme, palindrom, sesli harf, harf frekansı, kelime sıklığı (`unordered_map`), anagram, büyük harfe çevirme, kelime sayısı, ilk tekrar etmeyen karakter
 - [x] Desen ve matris (`38`-`40`): yıldız desenleri, çarpım tablosu, matris işlemleri
-- [ ] Bağlı liste ters çevirme
+- [x] Bağlı liste ters çevirme (`41`): [`07-algoritma-sorulari/41_bagli_liste_ters_cevir.cpp`](07-algoritma-sorulari/41_bagli_liste_ters_cevir.cpp)
 
 ### 08 - Mini projeler
 - [ ] Thread-safe telemetri kuyruğu
