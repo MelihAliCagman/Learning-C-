@@ -109,6 +109,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [x] String soruları (`29`-`37`): ters çevirme, palindrom, sesli harf, harf frekansı, kelime sıklığı (`unordered_map`), anagram, büyük harfe çevirme, kelime sayısı, ilk tekrar etmeyen karakter
 - [x] Desen ve matris (`38`-`40`): yıldız desenleri, çarpım tablosu, matris işlemleri
 - [x] Bağlı liste ters çevirme (`41`): [`07-algoritma-sorulari/41_bagli_liste_ters_cevir.cpp`](07-algoritma-sorulari/41_bagli_liste_ters_cevir.cpp)
+- [x] Geçerli parantezler, stack (`42`): [`07-algoritma-sorulari/42_gecerli_parantezler.cpp`](07-algoritma-sorulari/42_gecerli_parantezler.cpp)
 
 ### 08 - Mini projeler
 - [ ] Thread-safe telemetri kuyruğu
