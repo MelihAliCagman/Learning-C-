@@ -112,6 +112,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [x] Geçerli parantezler, stack (`42`): [`07-algoritma-sorulari/42_gecerli_parantezler.cpp`](07-algoritma-sorulari/42_gecerli_parantezler.cpp)
 - [x] Maksimum alt dizi toplamı, Kadane (`43`): [`07-algoritma-sorulari/43_kadane_maksimum_alt_dizi.cpp`](07-algoritma-sorulari/43_kadane_maksimum_alt_dizi.cpp)
 - [x] İki sıralı diziyi birleştirme, merge (`44`): [`07-algoritma-sorulari/44_iki_siirali_diziyi_birlestir.cpp`](07-algoritma-sorulari/44_iki_siirali_diziyi_birlestir.cpp)
+- [x] Thread-safe sayaç, mutex ve atomic (`45`): [`07-algoritma-sorulari/45_thread_safe_sayac.cpp`](07-algoritma-sorulari/45_thread_safe_sayac.cpp)
 
 ### 08 - Mini projeler
 - [ ] Thread-safe telemetri kuyruğu
