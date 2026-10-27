@@ -115,6 +115,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [x] Thread-safe sayaç, mutex ve atomic (`45`): [`07-algoritma-sorulari/45_thread_safe_sayac.cpp`](07-algoritma-sorulari/45_thread_safe_sayac.cpp)
 - [x] İki stack ile kuyruk (`46`): [`07-algoritma-sorulari/46_iki_stack_ile_kuyruk.cpp`](07-algoritma-sorulari/46_iki_stack_ile_kuyruk.cpp)
 - [x] Kelimelerin en uzun ortak öneki (`47`): [`07-algoritma-sorulari/47_en_uzun_ortak_onek.cpp`](07-algoritma-sorulari/47_en_uzun_ortak_onek.cpp)
+- [x] Bağlı listede döngü bulma, Floyd (`48`): [`07-algoritma-sorulari/48_bagli_listede_dongu_bulma.cpp`](07-algoritma-sorulari/48_bagli_listede_dongu_bulma.cpp)
 
 ### 08 - Mini projeler
 - [ ] Thread-safe telemetri kuyruğu
