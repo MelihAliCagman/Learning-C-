@@ -113,6 +113,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [x] Maksimum alt dizi toplamı, Kadane (`43`): [`07-algoritma-sorulari/43_kadane_maksimum_alt_dizi.cpp`](07-algoritma-sorulari/43_kadane_maksimum_alt_dizi.cpp)
 - [x] İki sıralı diziyi birleştirme, merge (`44`): [`07-algoritma-sorulari/44_iki_siirali_diziyi_birlestir.cpp`](07-algoritma-sorulari/44_iki_siirali_diziyi_birlestir.cpp)
 - [x] Thread-safe sayaç, mutex ve atomic (`45`): [`07-algoritma-sorulari/45_thread_safe_sayac.cpp`](07-algoritma-sorulari/45_thread_safe_sayac.cpp)
+- [x] İki stack ile kuyruk (`46`): [`07-algoritma-sorulari/46_iki_stack_ile_kuyruk.cpp`](07-algoritma-sorulari/46_iki_stack_ile_kuyruk.cpp)
 
 ### 08 - Mini projeler
 - [ ] Thread-safe telemetri kuyruğu
