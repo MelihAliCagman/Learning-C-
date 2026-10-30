@@ -71,7 +71,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 
 ### 03 - Sınıflar ve OOP
 - [x] Constructor çeşitleri, initializer list, destructor: [`03-siniflar-oop/19_constructor_destructor.cpp`](03-siniflar-oop/19_constructor_destructor.cpp)
-- [ ] Kopyalama ve taşıma (Rule of 3/5/0)
+- [x] Kopyalama ve taşıma (Rule of 3/5/0): [`03-siniflar-oop/21_rule_of_3_5_0.cpp`](03-siniflar-oop/21_rule_of_3_5_0.cpp)
 - [x] `virtual`, `override`, soyut sınıf, sanal destructor: [`03-siniflar-oop/20_virtual.cpp`](03-siniflar-oop/20_virtual.cpp)
 - [ ] Kalıtım ve kompozisyon
 - [ ] `static` üyeler, `friend`, `explicit`
