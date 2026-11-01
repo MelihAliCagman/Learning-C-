@@ -78,7 +78,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 - [ ] Operatör aşırı yükleme
 
 ### 04 - STL ve modern C++
-- [ ] `vector` (size / capacity, reallocation, iterator geçersizleşmesi)
+- [x] `vector` (size / capacity, reallocation, iterator geçersizleşmesi): [`04-stl-modern-cpp/23_vector.cpp`](04-stl-modern-cpp/23_vector.cpp)
 - [ ] `map` / `unordered_map` / `set`
 - [ ] `list`, `deque`, `array` karşılaştırması
 - [ ] `queue`, `stack`, `priority_queue`
