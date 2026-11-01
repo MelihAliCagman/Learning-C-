@@ -80,7 +80,7 @@ Tamamlanan örnekler işaretlenir. Her satır bir `.cpp` dosyasına karşılık 
 ### 04 - STL ve modern C++
 - [x] `vector` (size / capacity, reallocation, iterator geçersizleşmesi): [`04-stl-modern-cpp/23_vector.cpp`](04-stl-modern-cpp/23_vector.cpp)
 - [x] `map` / `unordered_map` / `set`: [`04-stl-modern-cpp/24_map_unordered_map_set.cpp`](04-stl-modern-cpp/24_map_unordered_map_set.cpp)
-- [ ] `list`, `deque`, `array` karşılaştırması
+- [x] `list`, `deque`, `array` karşılaştırması: [`04-stl-modern-cpp/25_list_deque_array.cpp`](04-stl-modern-cpp/25_list_deque_array.cpp)
 - [ ] `queue`, `stack`, `priority_queue`
 - [ ] Iterator'lar ve `<algorithm>`
 - [ ] Lambda ve capture, `std::function`
